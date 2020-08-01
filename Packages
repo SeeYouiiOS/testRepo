@@ -1,0 +1,9 @@
+Package: com.rashidfarhad.a-bypass
+Section: Tweaks
+Installed-Size: 432
+Maintainer: RashidFarhad
+Architecture: iphoneos-arm
+Version: 1.2.6
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Name: A-BypassKurd
+Author: RashidFarhad
