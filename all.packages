@@ -1,0 +1,78 @@
+[{
+	"size": 479808,
+	"time": 1592040330,
+	"package": "ml.kurdpaxsh.jokerhack",
+	"version": "0.3.6",
+	"name": "Joker ModMenu 0.18.0",
+	"section": "Tweaks"
+}, {
+	"size": 201232,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.dlgmemorinjected",
+	"version": "13.5",
+	"name": "DLGMemor Injected",
+	"section": "Utilities"
+}, {
+	"size": 2458044,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.appdatamanager",
+	"version": "1.5.3",
+	"name": "Apps Manager",
+	"section": "Utilities"
+}, {
+	"size": 2860340,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.memsearch",
+	"version": "1.5",
+	"name": "GameGem",
+	"section": "Utilities"
+}, {
+	"size": 143592,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.hidejblite",
+	"version": "1.0",
+	"name": "HideJB Lite",
+	"section": "Tweaks"
+}, {
+	"size": 90524,
+	"time": 1591743895,
+	"package": "ml.kurdpaxsh.choicy",
+	"version": "1.2.2",
+	"name": "Choicy",
+	"section": "Tweaks"
+}, {
+	"size": 31184,
+	"time": 1591740409,
+	"package": "ml.kurdpaxsh.a-bypass",
+	"version": "1.0.7",
+	"name": "A-Bypass",
+	"section": "Tweaks"
+}, {
+	"size": 383524,
+	"time": 1591709101,
+	"package": "ml.kurdpaxsh.flyjb",
+	"version": "0.2.5.3",
+	"name": "FlyJB",
+	"section": "Tweaks"
+}, {
+	"size": 1229936,
+	"time": 1591836594,
+	"package": "ml.kurdpaxsh.kernbypass",
+	"version": "0.0.3",
+	"name": "KernBypass",
+	"section": "System"
+}, {
+	"size": 1229936,
+	"time": 1591702508,
+	"package": "ml.kurdpaxsh.antiban",
+	"version": "0.1.2",
+	"name": "Antiban 0.18.0",
+	"section": "Tweaks"
+}, {
+	"size": 49341328,
+	"time": 1591836594,
+	"package": "ml.kurdpaxsh.istec",
+	"version": "2.2.4",
+	"name": "ISTEC",
+	"section": "Tweaks"
+}]

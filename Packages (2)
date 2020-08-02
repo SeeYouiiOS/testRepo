@@ -1,0 +1,310 @@
+Package: ml.kurdpaxsh.istec
+Name: ISTEC
+Description: SharpShooter For PUBG
+Size: 3561996
+Version: 2.2.4
+Section: Tweaks (Pubg)
+Author: Aka
+Maintainer: Sizar
+Depends:mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.istec_2.2.4_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
+Architecture: iphoneos-arm
+MD5sum: 4e087ed2190bca9636b41890471c042d
+SHA1: 348bd785dbd3e515e53cd261760ef47b32641c18
+SHA256: 7fbd02a96b1d14ecab8f908efc470b77943e8946caf60f8f23c71441744e2e88
+SHA512: aaf772099d99fccd52c5e6ad07260e5c32df229066cbe541f72f88b7a6b285d1dce45685d34759c00a03d6cd51a3c5568be84dfd5873b178b7a8a4cc7dfc7d13
+
+Package: ml.kurdpaxsh.istec
+Name: ISTEC
+Description: SharpShooter For PUBG
+Size: 49341328
+Version: 2.2.0
+Section: Tweaks (Pubg)
+Author: Aka
+Maintainer: Sizar
+Depends:mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.istec_2.2.0_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
+Architecture: iphoneos-arm
+MD5sum: 9fc088705af3eef64791a73ee13f686e
+SHA1: d7b55219706a977e980210f2e8412780a61cb5f1
+SHA256: 342d4aeabc08f41a5edd55b97d7541326e7782b35e205c4b192a809459956732
+SHA512: 4e1397af5ffae40b8fbaa7011ab2bd786deabe733402cd2e28ec4e58aa2d41c7fd4508e9d7ef938ef2d13aeddb939ac0d0d748af1a71a8d67bf1eb3ef8de0c42
+
+Package: ml.kurdpaxsh.istec
+Name: ISTEC
+Description: SharpShooter For PUBG
+Size: 49341328
+Version: 2.1.5
+Section: Tweaks (Pubg)
+Author: Aka
+Maintainer: Sizar
+Depends:mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.istec_2.1.5_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
+Architecture: iphoneos-arm
+MD5sum: 9c00ac4c7392f0291744eae546f99d8a
+SHA1: f42fad547b97b1f108dccbc5af5cfdf5d40cbae3
+SHA256: 6a2062b671df753a704957880a3d1b3e0212d505119c02fe9fa56aff5cf487ac
+SHA512: 54ae44d8eda7dcd5050065dec35487a2f8dc67a3d9cb5040974ab4fa3991143c669e4675aba00ffa8b79f57a53afabe276a5877c42a9eb8dc0906f9a985c5c39
+
+Package: ml.kurdpaxsh.antiban
+Name: Antiban 0.18.0
+Description: Antiban For PUBG 0.18.0
+Size: 1229936
+Version: 0.1.2
+Section: Tweaks (Pubg)
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.antiban_0.1.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: c0edc469aa20c244aebba773b40c56d8
+SHA1: 3e38fe84cf545243de1d4e761afc68498b697435
+SHA256: 9f31b11bc316a1e27567a785ef69c416c1033c9a6d46cb0929f1b611173aeb5d
+SHA512: 648f6a4598f36f493af36864cc805e610d96faaefb98e599ca7acbd3bb9e94f04cc2890f5c93f6256112e1787f4259dfbbde0d4955001a3888d58dfd3df7cf0e
+
+Package: ml.kurdpaxsh.kernbypass
+Name: KernBypass
+Description: kernel level jailbreak detection bypass.
+Size: 14568
+Version: 0.0.3
+Section: System
+Author: akusio
+Maintainer: Sizar
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.kernbypass_0.0.3_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: 9d7fd2c3c00c66fff1640421ec25c9ad
+SHA1: 04be557b4b0ecf50e29ed6d246d1890329491975
+SHA256: 109fe28be69d396d7daf3f08ca9c60f917fe24c41b0ebb084bf99aaf5794baf7
+SHA512: 46b5b891b66b29d95a60d1138b540fc17d42ff0ef8a4133b687a5068a5065d616d6e9e6a674d4bf2944207445d73dbbb363a3f4e5129b8331679210453f4802c
+
+Package: ml.kurdpaxsh.jokerhack
+Name: Joker ModMenu 0.18.0
+Description: Pubg Hack v0.18.0 Mod Menu
+Size: 479808
+Version: 0.3.6
+Section: Tweaks (Pubg)
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.jokerhack_0.3.6_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.jokerhack
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.jokerhack
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: 3a8dbd2795fe2c15778343dd76a471fb
+SHA1: 270ae67ce71cf8256f2e5eacc6b6f71ec7b14051
+SHA256: b765ae77f00b0507c96878766244ad27415bae34fdb48779a47f975c5dd6d06b
+SHA512: ff2d664ca71eabe5dbb5be625221d69c2eeedf946b4b8871cc24b6d73777887c8cb000597d94fb37ac05fced78d152082019810a9941483df92a7449083836d2
+
+Package: ml.kurdpaxsh.kernbypass
+Name: KernBypass
+Description: kernel level jailbreak detection bypass.
+Size: 1229936
+Version: 0.0.1
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.kernbypass_0..0.1_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: 7c2f02cbf9f671c84da980831e59a359
+SHA1: 2cf964101f743becd6dbe71a0c0070684dddd04a
+SHA256: c1ac3ef7ca1c53789bf475f593a65abe01295fb470737193e1d3730a3090e994
+SHA512: 8bf936e75d809c41380e8609c208e79b76d1026d19952be555dcb268583c29a0e827e1d19f547d0d9ab63fbf9ffc9b6548a77255244608d5740bb91c3d624b99
+
+Package: ml.kurdpaxsh.flyjb
+Name: FlyJB
+Description: You can HIDE Doing jailbreak your iDevice.
+Size: 383524
+Version: 0.2.4.1
+Section: Tweaks
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.flyjb_0.2.4.1_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+MD5sum: bc221973a21d27e4429106b0b28960b7
+SHA1: fef189b4938bad95c585036950f60495b891e192
+SHA256: 2cd251f64282fb5dea62aa6f7e11954d7fe8b6c35aed9423e0881dd3a1a716f6
+SHA512: 66b63a85426f290f47fafb8cb80add3072319d463c44e4348d32157588cd725ad31033d6b2801ac0e7280ee18d95d15a0a5d0e454b6ce8a3f9080de26b916a09
+
+Package: ml.kurdpaxsh.flyjb
+Name: FlyJB
+Description: You can HIDE Doing jailbreak your iDevice.
+Size: 383524
+Version: 0.2.5.3
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.flyjb_0.2.5.3_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+MD5sum: 5a1fa15c06ff7e2ee07658713dbdcb11
+SHA1: b17cf591490d729e4564b5f4dd571558d9550557
+SHA256: 3f58041446b0f04260004537325b426c189b3e6fe14a87d8a78253efea993e52
+SHA512: 6ee38507a4f543a81ac693eba6f1d4a656e043863a56d33da53f781b5d2e6e533fe389684e4615eb245a459ee5f70e3d782aa61faddb63eb388c649071b9544f
+
+Package: ml.kurdpaxsh.a-bypass
+Name: A-Bypass
+Description: Super Jailbreak detection bypass!
+Size: 31184
+Version: 0.2.5.3
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.a-bypass_1.0.7_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
+MD5sum: 9dd80b5a909f632627bd711301a2f456
+SHA1: a427bac2fd25a88ad65efb3615fc000acf17924e
+SHA256: c557a2924a2f090b0851da1ccb28b440b57bd3d9bd1447ad869f85f89c673557
+SHA512: 734a53221dd36cedf7423274598e2a209b768114387760720c3fe686e6cec25b0c96eeb7452a7304bf940c4d6e05a8099e73a846a58bb33c32fa2f6e9152a2da
+
+Package: ml.kurdpaxsh.a-bypass
+Name: A-Bypass
+Description: Super Jailbreak detection bypass!
+Size: 32148
+Version: 1.0.7
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.a-bypass_1.0.7_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
+MD5sum: c1de5b6e168d3ade4716870840239838
+SHA1: 57fa8a633352cdd06197c49bf79bfc55cf95af34
+SHA256: 8124d5016cef12489d36b1ec4628bc80c00c9af1b0ddb0df3b727c7a5a3b83d8
+SHA512: 58c770c951d60da1e2ce2a77409d8fe2917d0992853ce673a771e5fd07016942bd950744d0475b62b8acb6791e59b02a2d59688f7a93f17e2451147003f82d9a
+
+Package: ml.kurdpaxsh.choicy
+Name: Choicy
+Description: Advanced Tweak Configuration!
+Size: 90524
+Version: 1.2.2
+Section: Tweaks
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Sizar
+Architecture: iphoneos-arm
+Installed-Size: 776
+Conflicts: com.opa334.choicy
+Depends: mobilesubstrate, applist
+Filename: ./debfiles/ml.kurdpaxsh.choicy_1.2.2_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.choicy
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.choicy
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@3x.png
+MD5sum: e0566864ad2bf86fd8eb357546d7ae37
+SHA1: 86db5d62bc17b75ae09670cec63eff80cb45d8a8
+SHA256: b563e5f1567ad377be5cdcd9e639b3b66a1ab5abeb3c2391f2ea1673826f8722
+SHA512: 169af7d5cbb92c225375c7b71ae4834f0eae1ac8b62ad9f9da1185266289a511819c9a2f03234a0747d0e0b2847d2379fd03b97f126683eefe833a6478773e15
+
+Package: ml.kurdpaxsh.hidejblite
+Name: HideJB Lite
+Description: Bybass jailbreak detection in certain apps, lite version of HideJB
+Size: 143592
+Version: 1.0
+Section: Tweaks
+Author: SeeYouIOS Team <admin@thuthuatjb.com>
+Maintainer: Sizar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common, com.thuthuatjb.iconrepo
+Conflicts: com.thuthuatjb.hidejb
+Replaces: com.thuthuatjb.hidejb
+Filename: ./debfiles/ml.kurdpaxsh.hidejblite_1.0_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.hidejblite
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.hidejblite
+Icon: file:///Library/IconRepo/tinhchinh.png
+MD5sum: 44c9676d4c54edfe4c60ca519f3ee8e3
+SHA1: 0c8ecc606169bcd1e80b34628d97c09e083f42ec
+SHA256: 66c6ababe2c18b81e13fb418c0d0f4cbfc47c68306901d5df9e4a846bfe0bb5e
+SHA512: 56c6f29adeed52279d50352252e8c0af4384e162d4b5195332d2b1f4ba77b12e735d8f98e294f19c6ae0ab6d8da64f0ed19e16a6f1c81fae496040bbf0a48c23
+
+Package: ml.kurdpaxsh.memsearch
+Name: GameGem
+Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Size: 2860340
+Version: 1.5
+Section: Utilities
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: Sizar
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0)
+Conflicts: com.aidoo.memsearch
+Filename: ./debfiles/ml.kurdpaxsh.memsearch_1.5_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.gamegem
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.gamegem
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+MD5sum: 69e06255a760709ffd7eee2470f0c498
+SHA1: 071a8eaee758d5aab3aa0743f85efcc808d3e9e7
+SHA256: c4955faac8cb85cff09d0bdf2fe4527b6e1f6df7629567dce10810219770ff92
+SHA512: 47db807f9e9afc0165d54845a2eec0949dae0f0fafdd11fd0cf82eaab89e4ae0cdf5aae2b6a7e58243a0cc0f2f608efa3442ff567f71dbc7628b94cdee1c102c
+
+Package: ml.kurdpaxsh.appdatamanager
+Name: Apps Manager
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Size: 2458044
+Version: 1.5.3
+Section: Utilities
+Maintainer: Sizar
+Author: TIGI Software <satashi2009@gmail.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.tigisoftware.appdatamanager
+Filename: ./debfiles/ml.kurdpaxsh.appdatamanager_1.5.3_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.appsmanager
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.appsmanager
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Architecture: iphoneos-arm
+MD5sum: aee0d2f7ed5ab6dad4ff2409d9e9277b
+SHA1: 4d2a4c1f90dedbd887e98b616657e8c280b4a87e
+SHA256: cfed67207522f492bb075c461af954c1f7545211d2455d2669fb7338b1e38678
+SHA512: 18a152e00be6ca5c636505241b2e43876d607dc5a3fcfe422501b0083d9b3fdbec2e3c6ab26d9c0c85d9d42a4dc63c871b31cd924682f716b6bdfc9c7ae45006
+
+Package: ml.kurdpaxsh.dlgmemorinjected
+Name: DLGMemor Injected
+Description: Injection library that allows you to alter memory in app.
+Size: 201232
+Version: 13.5
+Section: Utilities
+Maintainer: Sizar
+Author: Richard Applegate <support@x4-Applegate.com>
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Conflicts: com.x4-Applegate.dlgmemorinjected
+Filename: ./debfiles/ml.kurdpaxsh.dlgmemorinjected_13.5_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.dlgmemorinjected
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.dlgmemorinjected
+Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
+Architecture: iphoneos-arm
+MD5sum: 2bf5340aa1e40521fd49a22255bc1387
+SHA1: a07cb82ce89f663cc4f7241cbce9b1da2c127503
+SHA256: 6e8184b7b65d6603ebb327cef92b7daee1a117bd00e099744758539a4e7d3369
+SHA512: a0cd57e54a4651279363f6b7e24dbecc4859e61e8c1f00fc1741250c6b284a953f8a923702c69669fecca13adcaedd5dafc63f7923120cdf0698a670cc02a7db
