@@ -1,9 +1,35 @@
-Package: com.rashidfarhad.a-bypass
-Section: Tweaks
-Installed-Size: 432
-Maintainer: RashidFarhad
+Package: com.aka.istec
+Name: ISTEC
+Version: 2.3.3
+Description: SharpShoter 🙂
+Section: Games
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: ./debfiles/com.aka.istec_2.3.3_iphoneos-arm.deb
+Priority: optional
 Architecture: iphoneos-arm
-Version: 1.2.6
-Depends: mobilesubstrate, com.muirey03.libmryipc
-Name: A-BypassKurd
 Author: RashidFarhad
+dev: RashidFarhad
+Homepage: 
+Depiction: https://RashidFarhad.github.io/
+Maintainer: 
+Icon: 
+
+Package: com.aka.istec
+Name: ISTEC
+Version: 2.3.3
+Description: SharpShoter 🙂
+Section: Games
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: ./debfiles/ISTEC.deb
+Priority: optional
+Architecture: iphoneos-arm
+Author: RashidFarhad
+dev: RashidFarhad
+Homepage: 
+Depiction: https://RashidFarhad.github.io/
+Maintainer: 
+Icon: 
